@@ -1,1 +1,1 @@
-In this respository i will save some basic java problems and projects.
+This program in java helps to perform basic airthmatic operations such as addittion , multiplication , substraction , etc.
